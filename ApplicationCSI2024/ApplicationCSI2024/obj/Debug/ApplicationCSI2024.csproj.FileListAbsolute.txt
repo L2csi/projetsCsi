@@ -1,1 +1,8 @@
 C:\Users\user\Desktop\Exerice Github\ProjetsCsi\ApplicationCSI2024\ApplicationCSI2024\bin\Debug\ApplicationCSI2024.exe.config
+C:\Users\user\Desktop\Exerice Github\ProjetsCsi\ApplicationCSI2024\ApplicationCSI2024\bin\Debug\ApplicationCSI2024.exe
+C:\Users\user\Desktop\Exerice Github\ProjetsCsi\ApplicationCSI2024\ApplicationCSI2024\bin\Debug\ApplicationCSI2024.pdb
+C:\Users\user\Desktop\Exerice Github\ProjetsCsi\ApplicationCSI2024\ApplicationCSI2024\obj\Debug\ApplicationCSI2024.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Exerice Github\ProjetsCsi\ApplicationCSI2024\ApplicationCSI2024\obj\Debug\ApplicationCSI2024.Properties.Resources.resources
+C:\Users\user\Desktop\Exerice Github\ProjetsCsi\ApplicationCSI2024\ApplicationCSI2024\obj\Debug\ApplicationCSI2024.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Exerice Github\ProjetsCsi\ApplicationCSI2024\ApplicationCSI2024\obj\Debug\ApplicationCSI2024.exe
+C:\Users\user\Desktop\Exerice Github\ProjetsCsi\ApplicationCSI2024\ApplicationCSI2024\obj\Debug\ApplicationCSI2024.pdb
