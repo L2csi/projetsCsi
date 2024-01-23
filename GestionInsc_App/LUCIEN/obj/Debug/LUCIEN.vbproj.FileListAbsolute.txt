@@ -1,0 +1,118 @@
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.exe.config
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.exe
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.pdb
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.xml
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.Form1.resources
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.Resources.resources
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.vbproj.GenerateResource.Cache
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.exe
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.xml
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.pdb
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCELEVE.resources
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCOPTION.resources
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCCLASS.resources
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCINSCRIPTION.resources
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.vbprojResolveAssemblyReference.cache
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCRAPPORT.resources
+C:\Users\lucien\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.LOGIN.resources
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.exe.config
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.exe
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.xml
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.pdb
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.exe
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.pdb
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.xml
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.vbprojResolveAssemblyReference.cache
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.Form1.resources
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.LOGIN.resources
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.Resources.resources
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCCLASS.resources
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCELEVE.resources
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCINSCRIPTION.resources
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCOPTION.resources
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCRAPPORT.resources
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.vbproj.GenerateResource.Cache
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\RdlCompile.cache
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\RdlCompile.compiled
+D:\BUREAU JUIN 022\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.frmrecu.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.exe.config
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.exe
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.xml
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.pdb
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.exe
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.pdb
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\bin\Debug\LUCIEN.xml
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.vbprojResolveAssemblyReference.cache
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.Form1.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.frmrecu.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.LOGIN.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.Resources.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCCLASS.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCELEVE.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCINSCRIPTION.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCOPTION.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCRAPPORT.resources
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.vbproj.GenerateResource.Cache
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\RdlCompile.cache
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\RdlCompile.compiled
+C:\Users\LUCIEN_INFO\Desktop\PROTP\LUCIEN\LUCIEN\obj\Debug\LUCIEN.FormTS.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\bin\Debug\LUCIEN.exe.config
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.exe
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.xml
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.pdb
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\bin\Debug\LUCIEN.exe
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\bin\Debug\LUCIEN.pdb
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\bin\Debug\LUCIEN.xml
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.vbprojResolveAssemblyReference.cache
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.Form1.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.FormTS.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.frmrecu.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.LOGIN.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.Resources.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCCLASS.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCELEVE.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCINSCRIPTION.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCOPTION.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.UCRAPPORT.resources
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\LUCIEN.vbproj.GenerateResource.Cache
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\RdlCompile.cache
+C:\Users\LUCIEN_INFO\Desktop\LUCIEN\LUCIEN\obj\Debug\RdlCompile.compiled
+D:\PROJETG3\LUCIEN\bin\Debug\LUCIEN.exe.config
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.exe
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.xml
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.pdb
+D:\PROJETG3\LUCIEN\bin\Debug\LUCIEN.exe
+D:\PROJETG3\LUCIEN\bin\Debug\LUCIEN.pdb
+D:\PROJETG3\LUCIEN\bin\Debug\LUCIEN.xml
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.vbprojResolveAssemblyReference.cache
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.Form1.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.FormTS.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.frmrecu.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.LOGIN.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.Resources.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCCLASS.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCELEVE.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCINSCRIPTION.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCOPTION.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCRAPPORT.resources
+D:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.vbproj.GenerateResource.Cache
+D:\PROJETG3\LUCIEN\obj\Debug\RdlCompile.cache
+D:\PROJETG3\LUCIEN\obj\Debug\RdlCompile.compiled
+E:\PROJETG3\LUCIEN\bin\Debug\LUCIEN.exe.config
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.exe
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.xml
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.pdb
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.vbprojResolveAssemblyReference.cache
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.Form1.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.FormTS.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.frmrecu.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.LOGIN.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.Resources.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCCLASS.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCELEVE.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCINSCRIPTION.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCOPTION.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.UCRAPPORT.resources
+E:\PROJETG3\LUCIEN\obj\Debug\LUCIEN.vbproj.GenerateResource.Cache
+E:\PROJETG3\LUCIEN\obj\Debug\RdlCompile.cache
+E:\PROJETG3\LUCIEN\obj\Debug\RdlCompile.compiled
