@@ -1,0 +1,5 @@
+D:\Projects\Genie Log\DLLl2CSI2024\DLLl2CSI2024\bin\Debug\DLLl2CSI2024.dll
+D:\Projects\Genie Log\DLLl2CSI2024\DLLl2CSI2024\bin\Debug\DLLl2CSI2024.pdb
+D:\Projects\Genie Log\DLLl2CSI2024\DLLl2CSI2024\obj\Debug\DLLl2CSI2024.csprojResolveAssemblyReference.cache
+D:\Projects\Genie Log\DLLl2CSI2024\DLLl2CSI2024\obj\Debug\DLLl2CSI2024.dll
+D:\Projects\Genie Log\DLLl2CSI2024\DLLl2CSI2024\obj\Debug\DLLl2CSI2024.pdb
